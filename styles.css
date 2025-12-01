@@ -14,6 +14,17 @@ html {
 }
 
 
+.about-div {
+    background-image: url(images/About_Hero_Image.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 800px;
+
+}
+
+
 
 .hero-div {
     background-image: url(images/WedDesign_Site_Home_Image.jpg);
@@ -24,11 +35,6 @@ html {
     height: 400px;
 }
 
-
-
-.site-id-container {
-
-}
 
 
 
