@@ -100,18 +100,19 @@ html {
     background-repeat: no-repeat;
     background-size: cover;
     width: 100%;
-    height: 800px;
+    height: 700px;
 }
 
 
 .about-illustration {
     background-image: url(images/About_Illustartion_Top.png);
     flex-grow: 1;
-    padding: 10px;
+    padding: 0px;
     background-position: top;
     background-repeat: no-repeat;
-    background-size: 1700px 500px;
-    padding-bottom: 600px;
+    background-size: 1670px 380px;
+    padding-bottom: 400px;
+    margin: 10px;
 }
 
 
@@ -123,21 +124,70 @@ html {
 }
 
 
-
 .side-illustration {
     background-image: url(images/Side_Illustration_Left.png);
     flex-grow: 1;
     padding: 10px;
-    background-position: bottom;
+    background-position: top;
     background-repeat: no-repeat;
-    background-size: 600px 900px;
+    background-size: 350px 650px;
     padding-bottom: 900px;
+    padding-left: 240px;
 }
 
 
-.about-paragraph {
-    
-    font-size: 30px;
-   
 
+.about-paragraph {
+    font-size: 40px;
+    text-align: center;
+    padding: 40px;
+    margin-left: 5%;
+    line-height: 70px;
+    margin-top: -10%;
+}
+
+
+
+.side-illustartion-two {
+    background-image: url(images/Side_Illustration_Right.png);
+    flex-grow: 1;
+    padding: 10px;
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: 350px 648px;
+    padding-bottom: 900px;
+    padding-left: 310px;
+}
+
+
+.about-footer {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+.bottom-left-footer {
+    background-image: url(images/Left_Bottom_Illustration.png);
+    flex-grow: 1;
+    padding: 10px;
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 530px 200px;
+    padding-bottom: 400px;
+    padding-left: 240px;
+    margin-top: -20%;
+}
+
+
+.bottom-right-footer {
+    background-image: url(images/Right_Bottom_Illustration.png);
+    flex-grow: 1;
+    padding: 10px;
+    background-position: right;
+    background-repeat: no-repeat;
+    background-size: 530px 200px;
+    padding-bottom: 400px;
+    padding-right: 240px;
+    margin-top: -20%;
 }
