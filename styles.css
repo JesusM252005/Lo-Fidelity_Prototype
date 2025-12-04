@@ -322,8 +322,65 @@ html {
     max-width: 100%;
 }
 
+
+.text-five {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
+
+
+
 .text-six {
     display: flex;
     justify-content: center;
     margin-top: -20%;
+}
+
+
+
+.text-seven {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
+
+
+
+.text-two {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
+
+
+
+.text-nine {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
+
+
+
+.text-eight {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
+
+
+
+.new-text {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+
+
+.new-text-two {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
 }
