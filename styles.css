@@ -192,3 +192,108 @@ html {
     padding-right: 240px;
     margin-top: -20%;
 }
+
+
+.artwork-illustration {
+    background-image: url(images/Showcased_Artwork_Illustration.png);
+    flex-grow: 1;
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 1500px 300px;
+    padding-bottom: 300px;
+}
+
+
+
+.artowrk-title {
+    font-size: 100px;
+    display: flex;
+    justify-content: center;
+}
+
+
+
+.main-content {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    gap: 20px; 
+    padding: 20px;
+}
+
+
+
+.image-one {
+    background-image: url(images/Image_1.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 5%;
+    max-width: 100%;
+}
+
+
+
+.image-three {
+    background-image: url(images/Image_3.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 5%;
+    max-width: 100%;
+}
+
+
+
+.image-five {
+    background-image: url(images/Image_5.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
+
+
+.image-six {
+    background-image: url(images/Image_6.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
+
+
+.image-seven {
+    background-image: url(images/Image_7.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
+
+
+.image-two {
+    background-image: url(images/Image_2.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
+
+
+
