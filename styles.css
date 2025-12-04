@@ -218,6 +218,7 @@ html {
     grid-template-columns: 1fr 1fr;
     gap: 20px; 
     padding: 20px;
+    
 }
 
 
@@ -295,5 +296,29 @@ html {
     max-width: 100%;
 }
 
+
+
+.image-nine {
+    background-image: url(images/Image_9.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
+
+
+.image-eight {
+    background-image: url(images/Image_8.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    padding-bottom: 300px;
+    height: auto;
+    margin-top: 25%;
+    max-width: 100%;
+}
 
 
