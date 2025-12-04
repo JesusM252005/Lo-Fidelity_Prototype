@@ -310,6 +310,7 @@ html {
 }
 
 
+
 .image-eight {
     background-image: url(images/Image_8.jpg);
     background-position: center;
@@ -321,4 +322,8 @@ html {
     max-width: 100%;
 }
 
-
+.text-six {
+    display: flex;
+    justify-content: center;
+    margin-top: -20%;
+}
