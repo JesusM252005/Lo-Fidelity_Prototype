@@ -95,7 +95,7 @@ html {
 
 
 
-.about-div {
+.ga-div {
     background-image: url(images/About_Hero_Image.jpg);
     background-position: top;
     background-repeat: no-repeat;
@@ -105,7 +105,7 @@ html {
 }
 
 
-.about-illustration {
+.ga-illustration {
     background-image: url(images/About_Illustartion_Top.png);
     flex-grow: 1;
     padding: 0px;
@@ -118,7 +118,7 @@ html {
 
 
 
-.about-main {
+.ga-main {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -138,7 +138,7 @@ html {
 
 
 
-.about-paragraph {
+.ga-paragraph {
     font-size: 40px;
     text-align: center;
     padding: 40px;
@@ -161,7 +161,7 @@ html {
 }
 
 
-.about-footer {
+.ga-footer {
     display: flex;
     justify-content: space-between;
     align-items: center;
@@ -383,4 +383,32 @@ html {
     display: flex;
     justify-content: center;
     margin-top: 5%;
+}
+
+
+
+.about-flex-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+
+
+.about-description {
+    width: 40%;
+    padding: 70px;
+}
+
+
+
+.smithsonian-building-img {
+    background-image: url(images/Smithsonian_Arts_&_Industries_Building.jpg);
+    background-position: left;
+    background-repeat: no-repeat;
+    background-size: 1500px 300px;
+    padding-bottom: 300px;
+    height: auto;
+    
+
 }
