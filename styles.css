@@ -398,16 +398,18 @@ html {
 .about-description {
     width: 40%;
     padding: 70px;
+    font-size: 30px;
+    line-height: 50px;
 }
 
 
 
 .smithsonian-building-img {
-    background-image: url(images/Smithsonian_Arts_&_Industries_Building.jpg);
-    background-position: left;
+    background-image: url(images/Smithsonian_Arts_and_Industries_Building.jpg);
+    background-position: center;
     background-repeat: no-repeat;
-    background-size: 1500px 300px;
-    padding-bottom: 300px;
+    background-size: 700px 500px;
+    padding: 400px;
     height: auto;
     
 
