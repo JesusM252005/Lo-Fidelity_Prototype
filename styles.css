@@ -149,6 +149,25 @@ html {
 
 
 
+.ga-paragraph-two {
+    background-color: rgb(68, 193, 235);
+    display: inline-block;
+    padding: 8px 16px;
+    border-radius: 50px;
+}
+
+
+.ga-link {
+    text-decoration: none;
+    color: #fff;
+}
+
+
+.ga-paragraph-two:hover {
+    background-color: #888;
+}
+
+
 .side-illustartion-two {
     background-image: url(images/Side_Illustration_Right.png);
     flex-grow: 1;
